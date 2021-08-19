@@ -1,0 +1,1 @@
+The k_medoids procedure needs around 7 seconds to run on my notebook.
